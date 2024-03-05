@@ -2,7 +2,8 @@ body {
   background: #CCCCCC
 }
 #banner2 {
-  width: 100%
+  width: 100%;
+  height: 200px;
 }
 
 p {
