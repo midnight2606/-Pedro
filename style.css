@@ -3,6 +3,11 @@ body {
 }
 p {
   text-align: center;}
+
 strong {
   color: red;
+}
+
+#missao{
+  font-size: 20px;
 }
