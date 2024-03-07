@@ -1,6 +1,11 @@
 body {
   background: #CCCCCC
 }
+
+h1{
+  border: 5px solid #ffffff;
+}
+
 #banner {
   width: 100%;
   height: 400px;
