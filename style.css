@@ -1,5 +1,5 @@
 body {
-  background: #CCCCCC
+  
 }
 
 h1{
@@ -9,6 +9,9 @@ h1{
   margin-left: 650px;
 }
 
+.principal {
+  background: #CCCCCC
+}
 
 #banner {
   width: 100%;
@@ -20,6 +23,10 @@ p {
 
 strong {
   color: #ff0000;
+}
+
+.beneficios {
+  background: #000000
 }
 
 #missao{
