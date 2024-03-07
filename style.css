@@ -33,6 +33,10 @@ strong {
   font-size: 25px;
 }
 
+h2 {
+  text-align: center;
+}
+
 .itens {
   font-style: italic
 }
