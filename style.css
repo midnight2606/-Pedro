@@ -29,6 +29,10 @@ strong {
   background: #FFFFFF
 }
 
+ul {
+  display: inline-block;
+}
+
 #missao{
   font-size: 25px;
 }
