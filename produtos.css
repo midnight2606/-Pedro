@@ -1,0 +1,9 @@
+header {
+  background: #BBBBBB;
+}
+nav li {
+  display: inline;
+}
+nav a {
+  color: #000000;
+}
