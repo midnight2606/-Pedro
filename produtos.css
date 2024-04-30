@@ -82,7 +82,10 @@ nav a:hover {
 footer {
 	text-align: center;
 	background: url("bg.jpg")
-}.produtos h2 {
+	padding: 40px;
+}
+
+.produtos h2 {
 	font-size: 30px;
 	font-weight: bold;
 }
