@@ -47,11 +47,11 @@ nav a {
 	border-style: solid;
 }
 
-.produtos li: hover {
+.produtos li:hover {
 	border-color: #C78C19;
 }
 
-.produtos li: active {
+.produtos li:active {
 	border-color: #088C19;
 }
 
